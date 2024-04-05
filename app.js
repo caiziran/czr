@@ -7,4 +7,4 @@ app.use(ctx => {
   ctx.body = 'Hello Koa';
 });
 
-app.listen(80);
+app.listen(3000);
